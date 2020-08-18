@@ -2,7 +2,7 @@
 /*
   				COPYRIGHT
 
-Copyright 2017 PowerMobile Team <info@powermobile.org>
+Copyright 2007 Sergio Vaccaro <sergio@inservibile.org>
 
 This file is part of JSON-RPC PHP.
 
@@ -17,13 +17,15 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with JSON-RPC PHP
+along with JSON-RPC PHP; if not, write to the Free Software
+Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
 /**
  * The object of this class are generic jsonRPC 1.0 clients
  * http://json-rpc.org/wiki/specification
  *
+ * @author sergio <jsonrpcphp@inservibile.org>
  */
 class jsonRPCClient {
 	
